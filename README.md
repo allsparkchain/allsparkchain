@@ -1,1 +1,1 @@
-AllSparkTokenÔ´Âë
+AllSparkToken Source Code
